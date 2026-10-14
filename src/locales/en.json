@@ -475,6 +475,8 @@
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoon": "Check back soon for new codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
@@ -488,6 +490,11 @@
     "officialMedia": "Official media",
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The guide you are looking for may have moved or has not been added yet.",
+    "browse": "Browse The Escapists 3 Guides"
   },
   "footer": {
     "aboutTitle": "The Escapists 3 Wiki",

@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@Team17Ltd",
     twitter: "https://x.com/Team17",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "de", "fr"],
   defaultLocale: "en",
 };

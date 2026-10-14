@@ -1,1 +1,517 @@
-{}
+{
+  "site": {
+    "name": "The Escapists 3 Wiki",
+    "shortName": "The Escapists 3",
+    "tagline": "Ausbruchsguides, Handwerk, Gegenstände und Gefängnisrouten",
+    "description": "Entdecke The Escapists 3 Wiki mit Ausbruchsguides, Handwerksrezepten, Gegenständen, Waffen, Gefängnistipps und Koop-Strategien für das kommende 3D-Sandboxspiel von Team17.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Leitfaden",
+    "mechanics": "Mechaniken",
+    "multiplayer": "Mehrspieler",
+    "platforms": "Plattformen",
+    "community": "Community",
+    "predecessors": "Vorgänger",
+    "questions": "Fragen"
+  },
+  "home": {
+    "meta": {
+      "title": "The Escapists 3 Wiki: Guides, Gegenstände und Ausbrüche",
+      "description": "Entdecke The Escapists 3 Wiki mit Ausbruchsguides, Handwerksrezepten, Gegenständen, Waffen, Gefängnistipps und Koop-Strategien für das kommende 3D-Sandboxspiel von Team17."
+    },
+    "hero": {
+      "eyebrow": "3D-Gefängnisausbruch-Sandbox",
+      "title": "The Escapists 3 Wiki",
+      "description": "Plane gewagte Gefängnisausbrüche in The Escapists 3. Entdecke Ausbruchsstrategien, Handwerksrezepte, Gefängnisguides, Gegenstände, Waffen und Koop-Tipps für die kommende 3D-Gefängnis-Sandbox.",
+      "stats": [
+        "Erscheinungsjahr: 2027",
+        "5 Gefängnisse",
+        "Über 120 Gegenstände und Waffen",
+        "Koop: bis zu 4 Spieler"
+      ],
+      "primaryCta": "Einsteigerguide",
+      "secondaryCta": "Ausbruchsrouten",
+      "tertiaryCta": "Release und Plattformen",
+      "videoLabel": "Offizielle Medien"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides ansehen",
+      "viewAll": "Alle ansehen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Dein erster Ausbruch in The Escapists 3",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteigerguide",
+          "description": "Lerne den Tagesablauf, die Appelle, die Werte und das Verdachtssystem kennen, bevor du deinen ersten Ausbruch in The Escapists 3 planst."
+        },
+        {
+          "number": "2",
+          "title": "Geld und Vorräte",
+          "description": "Verdiene Geld mit Gefängnisjobs, handle mit Insassen und horte die Bauteile, auf denen jede Ausbruchsroute aufbaut."
+        },
+        {
+          "number": "3",
+          "title": "Handwerksgrundlagen",
+          "description": "Verwandle Alltagsgegenstände in Werkzeuge, Verkleidungen und Waffen aus dem bestätigten Pool von über 120 Gegenständen."
+        },
+        {
+          "number": "4",
+          "title": "Kampfgrundlagen",
+          "description": "Erkenne, wann du kämpfen und wann du nachgeben solltest, mit Wächterverdacht, Schmuggelware und Hofprügeleien erklärt."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade angesagt",
+      "quickLinks": [
+        "Gefängnisroutinen",
+        "Handwerksguide",
+        "Ausbruchsmethoden",
+        "Koop-Guide"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteigerguide",
+          "description": "Alles, was du vom ersten Appell bis zur sauberen Ausbruchsplanung in The Escapists 3 brauchst.",
+          "href": "/guide/the-escapists-3-beginner-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Gefängnisausbruch-Guide",
+          "description": "Routine, Verdacht, Handwerk und die Ausbruchsrouten, die dich über die Mauer bringen.",
+          "href": "/guide/the-escapists-3-prison-escape-guide"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Handwerksrezepte und Gegenstände",
+          "description": "Wie über 120 Gegenstände und Waffen Alltagsdinge in Ausbruchswerkzeuge verwandeln.",
+          "href": "/mechanics/the-escapists-3-crafting"
+        },
+        {
+          "badge": "Neu",
+          "title": "Gefängnisroutinen",
+          "description": "Appelle, Patrouillen und Tagespläne als eigentliche Schwierigkeitskurve des Spiels erklärt.",
+          "href": "/mechanics/the-escapists-3-prison-routines"
+        },
+        {
+          "badge": "Neu",
+          "title": "Ausbruchsmethoden",
+          "description": "Graben, Verkleidungen, vertikale Routen und wie 3D jeden Ausbruch verändert.",
+          "href": "/mechanics/the-escapists-3-escape-methods"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Waffen und Kampf",
+          "description": "Beute, Handwerk und Kampfgrundlagen für die 3D-Gefängnis-Sandbox.",
+          "href": "/mechanics/the-escapists-3-weapons"
+        },
+        {
+          "badge": "Neu",
+          "title": "Charakterwerte und XP",
+          "description": "Werte, Fähigkeiten und der XP-Fortschritt, der zwischen Gefängnissen erhalten bleibt.",
+          "href": "/mechanics/the-escapists-3-character-stats"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Mehrspieler und Koop",
+          "description": "Splitscreen- und Online-Ausbrüche für vier Spieler mit funktionierender Rollenaufteilung.",
+          "href": "/multiplayer/the-escapists-3-multiplayer"
+        },
+        {
+          "badge": "Neu",
+          "title": "Release und Plattformen",
+          "description": "Das bestätigte 2027-Fenster und jede angekündigte Plattform an einem Ort.",
+          "href": "/guide/the-escapists-3-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist The Escapists 3?",
+      "paragraphs": [
+        "The Escapists 3 ist eine vollständig 3D-Gefängnisausbruch-Sandbox von Team17, angekündigt im Oktober 2026 und für 2027 auf PC und Konsolen geplant. Du lebst einen vollen Insassenalltag aus Appellen, Mahlzeiten, Arbeitsschichten und Zapfenstreich, während du heimlich die Werkzeuge, Verkleidungen und Routen für den Ausbruch zusammenstellst.",
+        "Der Nachfolger erscheint mit fünf eigenständigen Gefängnissen, über 120 Gegenständen und Waffen zum Erbeuten oder Herstellen sowie einem XP-System, das deine freigeschalteten Fähigkeiten von einer Anstalt zur nächsten überträgt. Fliehe allein oder mit bis zu vier Spielern im lokalen Splitscreen und im Online-Koop."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Team17"
+        },
+        {
+          "label": "Release-Zeitraum",
+          "value": "2027"
+        },
+        {
+          "label": "Plattformen",
+          "value": "PC und Konsolen"
+        },
+        {
+          "label": "Gefängnisse",
+          "value": "5"
+        },
+        {
+          "label": "Gegenstände und Waffen",
+          "value": "120+"
+        },
+        {
+          "label": "Online-Koop",
+          "value": "Bis zu 4"
+        }
+      ],
+      "cta": "Einsteigerguide lesen"
+    },
+    "explore": {
+      "title": "The Escapists 3 erkunden",
+      "description": "Alle bestätigten Systeme an einem Ort: Gefängnisroutinen, Ausbruchsrouten, Handwerksrezepte, Koop-Taktiken und Fortschritt für die 3D-Gefängnis-Sandbox von Team17.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Release und Plattformen von The Escapists 3",
+          "description": "Verfolge das bestätigte Startfenster 2027 und jede angekündigte Plattform für The Escapists 3, von Steam und Nintendo Switch 2 bis PlayStation 5 und Xbox Series X|S.",
+          "href": "/guide/the-escapists-3-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Team17 hat ein Startfenster 2027 bestätigt, angekündigt im Oktober 2026."
+            },
+            {
+              "label": "Plattformen",
+              "detail": "Steam, Nintendo Switch 2, PlayStation 5 und Xbox Series X|S sind alle bestätigt."
+            },
+            {
+              "label": "Steam",
+              "detail": "Setze die offizielle Store-Seite auf die Wunschliste, um sofort benachrichtigt zu werden."
+            },
+            {
+              "label": "Bestätigt",
+              "detail": "Fünf Gefängnisse, über 120 Gegenstände und Vier-Spieler-Koop sind im Spiel enthalten."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Einsteigerguide für The Escapists 3",
+          "description": "Starte deine erste Woche hinter Gittern mit den Kernsystemen, die jeder neue Insasse braucht: Routine, Werte, Verdacht, Handwerk und Ausbruchsplanung.",
+          "href": "/guide/the-escapists-3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Geh einmal das ganze Gelände ab, damit du weißt, wo Mauern, Zäune und Wachtposten stehen."
+            },
+            {
+              "label": "2",
+              "detail": "Lerne den Tagesplan, damit Appell, Mahlzeiten und Arbeitsschichten dich nie überraschen."
+            },
+            {
+              "label": "3",
+              "detail": "Sprich mit mindestens zwei Insassen, denn Gefallen und Tauschhandel sind der Weg zu seltenen Gegenständen."
+            },
+            {
+              "label": "4",
+              "detail": "Trainiere früh Stärke, Tempo und Intellekt, denn sie bestimmen, welche Ausbrüche möglich sind."
+            },
+            {
+              "label": "5",
+              "detail": "Halte den Wächterverdacht niedrig, indem du zum Appell gehst und Sperrbereiche meidest."
+            },
+            {
+              "label": "6",
+              "detail": "Finde dein Versteck in der Zelle, bevor du gräbst, sonst wird die Schmuggelware bei einer Durchsuchung beschlagnahmt."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Gefängnisse und Ausbruchsrouten in The Escapists 3",
+          "description": "Vergleiche die Ausbruchsrouten der fünf bestätigten Gefängnisse und wähle den Ansatz, der zu deinem Spielstil passt, vom leisen Tunnel bis zum lauten Hofausbruch.",
+          "href": "/guide/the-escapists-3-prison-escape-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Tunnel aus der Zelle graben: die klassische Route, aber Erde und Lärm treiben den Verdacht schnell hoch."
+            },
+            {
+              "label": "A",
+              "detail": "Verkleidungen und gefälschte Wächteruniformen: langsam zusammenzubauen, aber am sichersten, wenn fertig."
+            },
+            {
+              "label": "B",
+              "detail": "Vertikale Routen über Dächer, Lüftungsschächte und Kletterwege, die nur 3D-Gefängnisse erlauben."
+            },
+            {
+              "label": "C",
+              "detail": "Gewaltsame Hofausbrüche und Fahrzeugfluchten: laut, schnell und leicht zu bestrafen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Handwerksrezepte und Gegenstände in The Escapists 3",
+          "description": "Baue eine brauchbare Referenz für die über 120 Gegenstände und Waffen, die du erbeuten oder herstellen kannst, und lerne, welche Kombinationen einen Ausbruch von der Planung bis zum Durchbruch tragen.",
+          "href": "/mechanics/the-escapists-3-crafting",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Plan",
+              "detail": "Erkunde zuerst und arbeite dann vom Ausgang zurück zu den Bauteilen, die du wirklich brauchst."
+            },
+            {
+              "label": "Graben",
+              "detail": "Laken, Löffel und Spitzhacken bilden das Rückgrat jeder Tunnelroute."
+            },
+            {
+              "label": "Verkleidung",
+              "detail": "Wächteruniformen und gefälschte Papiere bringen dich durch Kontrollen und Personaltüren."
+            },
+            {
+              "label": "Köder",
+              "detail": "Lärmmacher und gekappte Stromleitungen ziehen Wächter von deinem Ausbruchsfenster weg."
+            },
+            {
+              "label": "Versteck",
+              "detail": "Verstecke Bauteile vor Inspektionen in deinem Schreibtisch oder der Zelle eines Koop-Partners."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Mehrspieler- und Koop-Guide für The Escapists 3",
+          "description": "Plane einen abgestimmten Ausbruch mit Freunden: lokaler Splitscreen für zwei Spieler, Online-Koop für bis zu vier und Rollenaufteilungen, die ein Team effizient halten.",
+          "href": "/multiplayer/the-escapists-3-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Solo",
+              "detail": "Mach zuerst einen Solo-Ausbruch, um Routinen zu lernen und Routen sicher zu testen."
+            },
+            {
+              "label": "Lokal",
+              "detail": "Der lokale Splitscreen-Koop unterstützt zwei Spieler an einem Bildschirm."
+            },
+            {
+              "label": "Online",
+              "detail": "Der Online-Koop unterstützt zwei bis vier Spieler mit aktiviertem Crossplay."
+            },
+            {
+              "label": "Rollen",
+              "detail": "Teile Erkundung, Handwerk und Aufpasserdienst auf, damit das ganze Team beschäftigt bleibt."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Online-Spiel auf Konsole erfordert einen Game Pass Essential-, Premium- oder Ultimate-Plan."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Fähigkeiten- und Fortschrittsguide für The Escapists 3",
+          "description": "Verstehe das bestätigte XP-System und wie freigeschaltete Fähigkeiten zwischen Gefängnissen erhalten bleiben, und forme einen Insassen, der einen Anstaltswechsel übersteht.",
+          "href": "/mechanics/the-escapists-3-character-stats",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Verdiene XP durch Spielen: Jobs, Training und erfolgreiche Ausbrüche treiben den Fortschritt voran."
+            },
+            {
+              "label": "2",
+              "detail": "Schalte Fähigkeiten frei, die zu deinem Ausbruchsstil passen, statt Punkte zu verzetteln."
+            },
+            {
+              "label": "3",
+              "detail": "Vermeide zu starke Spezialisierung, denn deine Fähigkeiten bleiben über alle fünf Gefängnisse erhalten."
+            },
+            {
+              "label": "4",
+              "detail": "Trainiere Stärke zum Graben, Tempo für Patrouillenfenster und Intellekt fürs Handwerk."
+            },
+            {
+              "label": "5",
+              "detail": "Baue deine Ausrüstung neu auf, wann immer du in eine Anstalt mit neuen Routinen wechselst."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tipps und Tricks für The Escapists 3",
+          "description": "Praktische Ratschläge, um unauffällig zu bleiben, den Verdacht zu steuern, Schmuggelware zu verstecken und dich zu erholen, wenn ein Ausbruchsplan scheitert.",
+          "href": "/guide/the-escapists-3-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Routine",
+              "detail": "Präge dir Appell- und Patrouillenzeiten ein, bevor du etwas Riskantes versuchst."
+            },
+            {
+              "label": "Verdacht",
+              "detail": "Appell verpassen oder Sperrbereiche betreten lässt den Verdacht schnell steigen."
+            },
+            {
+              "label": "Versteck",
+              "detail": "Lass Schmuggelware nie offen liegen, sonst löscht eine Inspektion Wochen Arbeit aus."
+            },
+            {
+              "label": "Gefallen",
+              "detail": "Handel mit Insassen ist oft schneller und sicherer, als zu stehlen, was du brauchst."
+            },
+            {
+              "label": "Reserve",
+              "detail": "Halte eine zweite Ausbruchsroute bereit, falls dein erster Plan scheitert."
+            },
+            {
+              "label": "Geduld",
+              "detail": "Warte auf das Fenster, das deine Erkundung gefunden hat, statt einen Ausbruch zu früh zu erzwingen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Neuigkeiten und Updates zu The Escapists 3",
+          "description": "Folge offiziellen Ankündigungen, Trailern und Store-Updates zu The Escapists 3, damit du kein neu enthülltes Gefängnis, System oder keine Plattform verpasst.",
+          "href": "/community/the-escapists-3-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Enthüllung",
+              "detail": "The Escapists 3 wurde während der Triple-I Initiative Showcase enthüllt."
+            },
+            {
+              "label": "Fenster",
+              "detail": "Team17 hat ein Release-Fenster 2027 für PC und Konsolen bestätigt."
+            },
+            {
+              "label": "Studio",
+              "detail": "Team17 kehrt zurück, die bekannte Gefängnis-Sandbox-Formel bleibt intakt."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Der Ankündigungstrailer bestätigt 3D-Gefängnisse und neue Ausbruchsmethoden."
+            },
+            {
+              "label": "Folgen",
+              "detail": "Folge den offiziellen Team17-Kanälen für Store-Seiten und Release-News."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "The Escapists 3 FAQ",
+      "description": "Klare Antworten zu Release-Plänen, Gefängnissen, Handwerk, Koop und Fortschritt in The Escapists 3.",
+      "items": [
+        {
+          "question": "Wann erscheint The Escapists 3?",
+          "answer": "The Escapists 3 hat nach der Ankündigung im Oktober 2026 ein bestätigtes Release-Fenster 2027 für PC und Konsolen. Der genaue Starttag wird auf der offiziellen Store-Seite veröffentlicht, sobald Team17 ihn festlegt."
+        },
+        {
+          "question": "Wie viele Gefängnisse gibt es in The Escapists 3?",
+          "answer": "The Escapists 3 erscheint mit fünf eigenständigen Gefängnissen. Jede Anstalt hat eigene Routinen, Charaktere, Geheimnisse und Ausbruchsrouten, sodass du deinen Plan bei jedem Wechsel neu aufbauen musst."
+        },
+        {
+          "question": "Hat The Escapists 3 einen Koop-Modus?",
+          "answer": "Ja. The Escapists 3 unterstützt Solospiel, lokalen Splitscreen-Koop für zwei Spieler und Online-Koop für bis zu vier Spieler mit aktiviertem Crossplay."
+        },
+        {
+          "question": "Wie viele Gegenstände und Waffen kann man in The Escapists 3 herstellen?",
+          "answer": "Team17 hat über 120 Gegenstände und Waffen zum Erbeuten oder Herstellen in The Escapists 3 bestätigt, darunter Grabwerkzeuge, Verkleidungen, Köder und improvisierte Waffen."
+        },
+        {
+          "question": "Auf welchen Plattformen erscheint The Escapists 3?",
+          "answer": "The Escapists 3 erscheint 2027 für PC über Steam, Nintendo Switch 2, PlayStation 5 und Xbox Series X|S."
+        },
+        {
+          "question": "Bleiben Fähigkeiten zwischen Gefängnissen in The Escapists 3 erhalten?",
+          "answer": "Ja. XP und freigeschaltete Fähigkeiten in The Escapists 3 werden von einem Gefängnis zum nächsten übertragen, weshalb ein flexibler Insassen-Build besser ist als ein überspezialisierter."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, deinen Gefängnisausbruch zu planen?",
+      "description": "Von deiner ersten Gefängnisroutine bis zum Herstellen der Werkzeuge für einen sauberen Ausbruch deckt unser Community-Wiki jedes bestätigte Detail von The Escapists 3 ab.",
+      "primary": "Einsteigerguide lesen",
+      "secondary": "Auf Steam wünschen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "The Escapists 3 Guides und erste Schritte",
+    "overviewDescription": "Einsteigertipps, komplette Walkthroughs, Ausbruchsrouten und Release-News zu The Escapists 3, alles an einem Ort."
+  },
+  "mechanics": {
+    "overviewTitle": "Spielmechaniken von The Escapists 3",
+    "overviewDescription": "Handwerk, Waffen, Charakterwerte, Gefängnisroutinen und Ausbruchsmethoden für The Escapists 3 erklärt."
+  },
+  "multiplayer": {
+    "overviewTitle": "Mehrspieler und Koop in The Escapists 3",
+    "overviewDescription": "Splitscreen, lokaler Koop, Online-Koop und Details zur Spielerzahl in The Escapists 3."
+  },
+  "platforms": {
+    "overviewTitle": "Plattformen und Download von The Escapists 3",
+    "overviewDescription": "Verfügbarkeit auf Steam, PS5, Xbox, Switch und Android plus Download-Details zu The Escapists 3."
+  },
+  "community": {
+    "overviewTitle": "Community und offizielle Links zu The Escapists 3",
+    "overviewDescription": "Reddit, die offizielle Website, Team17-Updates und die neuesten The Escapists 3-News."
+  },
+  "predecessors": {
+    "overviewTitle": "The Escapists 3 vs The Escapists 2",
+    "overviewDescription": "Vergleich von Gefängnissen, Mehrspieler und Gameplay zwischen The Escapists 3 und seinen Vorgängern."
+  },
+  "questions": {
+    "overviewTitle": "The Escapists 3 FAQ",
+    "overviewDescription": "Antworten auf die häufigsten Fragen zu The Escapists 3, vom Release-Status bis zum Preis."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "noActiveCodes": "Derzeit keine aktiven Codes verfügbar",
+    "checkBackSoon": "Schau bald wieder vorbei, um neue Codes zu sehen",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "description": "Der gesuchte Guide wurde möglicherweise verschoben oder ist noch nicht hinzugefügt.",
+    "browse": "The Escapists 3 Guides durchsuchen"
+  },
+  "footer": {
+    "aboutTitle": "The Escapists 3 Wiki",
+    "about": "The Escapists 3 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Gefängnisausbrüchen, Handwerksrezepten, Gegenständen, Waffen, Koop-Strategien und jedem bestätigten Detail der 3D-Gefängnis-Sandbox von Team17.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 The Escapists 3 Wiki. Nicht mit Team17 oder The Escapists verbunden.",
+    "description": "Kommende 3D-Gefängnisausbruch-Sandbox von Team17. 5 Gefängnisse, über 120 Gegenstände und Waffen, Solo- und Online-Koop-Ausbrüche.",
+    "playGame": "Auf Steam wünschen",
+    "officialDiscord": "Offizieller Team17-Discord",
+    "officialYoutube": "Offizielles Team17-YouTube",
+    "beginnerGuide": "Einsteigerguide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen",
+    "multiplayerGuides": "Mehrspieler",
+    "platformGuides": "Plattformen",
+    "mechanicsGuides": "Spielmechaniken"
+  }
+}
