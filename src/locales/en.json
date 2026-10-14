@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Journey in The Escapists 3",
+      "title": "Your First Escape in The Escapists 3",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the daily routine, roll calls, stats, and heat system before you plan your first breakout in The Escapists 3."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Money & Supplies",
+          "description": "Earn cash through prison jobs, trade with inmates, and stash the components every escape route depends on."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Crafting Basics",
+          "description": "Turn everyday items into tools, disguises, and weapons from the confirmed 120+ item crafting pool."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in The Escapists 3."
+          "title": "Combat Basics",
+          "description": "Know when to fight and when to walk away, with guard heat, contraband, and yard brawls explained."
         }
       ]
     },
@@ -66,265 +66,367 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Prison Routines",
+        "Crafting Guide",
+        "Escape Methods",
+        "Co-op Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
-        },
-        {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "description": "Everything you need from your first roll call to planning a clean breakout in The Escapists 3.",
+          "href": "/guide/the-escapists-3-beginner-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Prison Escape Guide",
+          "description": "Routine, heat, crafting, and the escape routes that get you over the wall.",
+          "href": "/guide/the-escapists-3-prison-escape-guide"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Crafting Recipes & Items",
+          "description": "How 120+ items and weapons turn everyday objects into escape tools.",
+          "href": "/mechanics/the-escapists-3-crafting"
+        },
+        {
+          "badge": "New",
+          "title": "Prison Routines",
+          "description": "Roll calls, patrols, and daily schedules explained as the game's real difficulty curve.",
+          "href": "/mechanics/the-escapists-3-prison-routines"
+        },
+        {
+          "badge": "New",
+          "title": "Escape Methods",
+          "description": "Digging, disguises, vertical routes, and how 3D changes every breakout.",
+          "href": "/mechanics/the-escapists-3-escape-methods"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Weapons & Combat",
+          "description": "Loot, crafting, and combat basics for the 3D prison sandbox.",
+          "href": "/mechanics/the-escapists-3-weapons"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Character Stats & XP",
+          "description": "Stats, skills, and the XP progression that carries between prisons.",
+          "href": "/mechanics/the-escapists-3-character-stats"
+        },
+        {
+          "badge": "Popular",
+          "title": "Multiplayer & Co-op",
+          "description": "Split-screen and four-player online escapes with role splits that work.",
+          "href": "/multiplayer/the-escapists-3-multiplayer"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Release Date & Platforms",
+          "description": "The confirmed 2027 window and every announced platform in one place.",
+          "href": "/guide/the-escapists-3-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is The Escapists 3?",
       "paragraphs": [
-        "The Escapists 3 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "The Escapists 3 is a fully 3D prison escape sandbox from Team17, announced in October 2026 and scheduled to launch in 2027 on PC and consoles. You live a full inmate schedule of roll call, meals, work shifts, and lights out while quietly assembling the tools, disguises, and routes needed to break out.",
+        "The sequel ships with five distinctive prisons, more than 120 items and weapons to loot or craft, and an XP progression system that carries your unlocked skills from one facility to the next. Escape solo or bring a crew of up to four players in local split-screen and online co-op."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Team17"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Release Window",
+          "value": "2027"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Platforms",
+          "value": "PC & Consoles"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Prisons",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Items & Weapons",
+          "value": "120+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Online Co-op",
+          "value": "Up to 4"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Beginner Guide"
     },
     "explore": {
       "title": "Explore The Escapists 3",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every confirmed system in one place: prison routines, escape routes, crafting recipes, co-op tactics, and progression for Team17's 3D prison sandbox.",
       "modules": [
         {
           "order": 1,
-          "name": "The Escapists 3 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/the-escapists-3-codes",
-          "displayType": "code-box",
+          "name": "The Escapists 3 Release Date and Platforms",
+          "description": "Track the confirmed 2027 launch window and every announced platform for The Escapists 3, from Steam and Nintendo Switch 2 to PlayStation 5 and Xbox Series X|S.",
+          "href": "/guide/the-escapists-3-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Release",
+              "detail": "Team17 has confirmed a 2027 launch window, announced in October 2026."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Platforms",
+              "detail": "Steam, Nintendo Switch 2, PlayStation 5, and Xbox Series X|S are all confirmed."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Steam",
+              "detail": "Wishlist the official store page to be notified the moment it goes live."
+            },
+            {
+              "label": "Confirmed",
+              "detail": "Five prisons, 120+ items, and four-player co-op ship with the game."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "The Escapists 3 Beginner Guide",
+          "description": "Start your first week behind bars the right way with the core systems every new inmate needs: routine, stats, heat, crafting, and escape planning.",
           "href": "/guide/the-escapists-3-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Walk the full perimeter once so you know where the walls, fences, and guard posts sit."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Learn the daily schedule so roll call, meals, and work shifts never catch you off guard."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Talk to at least two inmates, because favors and trades are how you get rare items."
+            },
+            {
+              "label": "4",
+              "detail": "Train Strength, Speed, and Intellect early, since they gate which escapes are possible."
+            },
+            {
+              "label": "5",
+              "detail": "Keep guard heat low by attending roll call and staying out of restricted rooms."
+            },
+            {
+              "label": "6",
+              "detail": "Find your cell stash spot before you dig, or contraband gets confiscated in a shakedown."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/the-escapists-3-tier-list",
+          "name": "The Escapists 3 Prisons and Escape Routes",
+          "description": "Compare the escape routes available across the five confirmed prisons and pick the approach that fits your playstyle, from quiet tunnels to loud yard breaks.",
+          "href": "/guide/the-escapists-3-prison-escape-guide",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Digging tunnels from your cell: the classic route, but dirt and noise raise heat fast."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Disguises and forged guard uniforms: slow to assemble, safest once complete."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Vertical routes through rooftops, vents, and climbing paths only 3D prisons allow."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Brute-force yard breaks and vehicle escapes: loud, fast, and easy to punish."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/the-escapists-3-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "The Escapists 3 Crafting Recipes and Items",
+          "description": "Build a working reference for the 120+ items and weapons you can loot or craft, and learn which combinations carry an escape from planning to breakout.",
+          "href": "/mechanics/the-escapists-3-crafting",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Plan",
+              "detail": "Recon first, then work backward from the exit to the components you actually need."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Digging",
+              "detail": "Sheets, spoons, and pickaxes form the backbone of every tunnel route."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Disguise",
+              "detail": "Guard uniforms and forged paperwork get you through checkpoints and staff doors."
+            },
+            {
+              "label": "Decoy",
+              "detail": "Noise makers and cut power lines pull guards away from your exit window."
+            },
+            {
+              "label": "Stash",
+              "detail": "Hide components in your desk or a co-op partner's cell before inspections."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/the-escapists-3-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "The Escapists 3 Multiplayer and Co-op Guide",
+          "description": "Plan a coordinated breakout with friends: local split-screen for two players, online co-op for up to four, and the role splits that keep a crew efficient.",
+          "href": "/multiplayer/the-escapists-3-multiplayer",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Solo",
+              "detail": "Run a single-inmate escape first to learn routines and test routes safely."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Local",
+              "detail": "Local split-screen co-op supports two players sharing one screen."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Online",
+              "detail": "Online co-op supports two to four players with crossplay enabled."
+            },
+            {
+              "label": "Roles",
+              "detail": "Split scouting, crafting, and lookout duty so the whole crew stays busy."
+            },
+            {
+              "label": "Xbox",
+              "detail": "Console online play requires a Game Pass Essential, Premium, or Ultimate plan."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/the-escapists-3-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "The Escapists 3 Skills and Progression Guide",
+          "description": "Understand the confirmed XP system and how unlocked skills carry between prisons, then build an inmate that survives a change of facility.",
+          "href": "/mechanics/the-escapists-3-character-stats",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Earn XP by playing: jobs, training, and successful escapes all feed progression."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Unlock skills that match your escape style instead of spreading points thin."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Avoid over-specializing, because your skills carry over between all five prisons."
+            },
+            {
+              "label": "4",
+              "detail": "Train Strength for digging, Speed for patrol windows, and Intellect for crafting."
+            },
+            {
+              "label": "5",
+              "detail": "Rebuild your loadout whenever you move to a facility with new routines."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "The Escapists 3 Tips and Tricks",
+          "description": "Practical advice for staying under suspicion, managing heat, stashing contraband, and recovering when an escape plan falls apart.",
+          "href": "/guide/the-escapists-3-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Routine",
+              "detail": "Memorize roll call and patrol times before you attempt anything risky."
+            },
+            {
+              "label": "Heat",
+              "detail": "Missing roll call or entering restricted rooms spikes suspicion fast."
+            },
+            {
+              "label": "Stash",
+              "detail": "Never leave contraband in the open, or one inspection erases weeks of work."
+            },
+            {
+              "label": "Favors",
+              "detail": "Trading with inmates is often faster and safer than stealing what you need."
+            },
+            {
+              "label": "Backup",
+              "detail": "Keep a second escape route ready in case your first plan collapses."
+            },
+            {
+              "label": "Patience",
+              "detail": "Wait for the window your recon found instead of forcing a break early."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "The Escapists 3 News and Updates",
+          "description": "Follow official announcements, trailers, and store updates for The Escapists 3 so you never miss a newly revealed prison, system, or platform.",
+          "href": "/community/the-escapists-3-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reveal",
+              "detail": "The Escapists 3 was revealed during the Triple-I Initiative Showcase."
+            },
+            {
+              "label": "Window",
+              "detail": "Team17 has confirmed a 2027 release window for PC and consoles."
+            },
+            {
+              "label": "Studio",
+              "detail": "Team17 returns with the prison sandbox formula fans know intact."
+            },
+            {
+              "label": "Trailer",
+              "detail": "The announcement trailer confirms 3D prisons and new escape methods."
+            },
+            {
+              "label": "Watch",
+              "detail": "Follow official Team17 channels for store pages and release news."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about The Escapists 3.",
+      "title": "The Escapists 3 FAQ",
+      "description": "Straight answers about The Escapists 3 release plans, prisons, crafting, co-op, and progression.",
       "items": [
         {
-          "question": "What is The Escapists 3?",
-          "answer": "The Escapists 3 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "When does The Escapists 3 come out?",
+          "answer": "The Escapists 3 has a confirmed 2027 release window for PC and consoles after its October 2026 announcement. The exact launch day is published on the official store page once Team17 sets it."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many prisons are in The Escapists 3?",
+          "answer": "The Escapists 3 ships with five distinctive prisons. Each facility has its own routines, characters, secrets, and escape routes, so your plan has to be rebuilt every time you move."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does The Escapists 3 have co-op?",
+          "answer": "Yes. The Escapists 3 supports solo play, two-player local split-screen co-op, and online co-op for up to four players with crossplay enabled."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many items and weapons can you craft in The Escapists 3?",
+          "answer": "Team17 has confirmed more than 120 items and weapons to loot or craft in The Escapists 3, covering digging tools, disguises, decoys, and improvised weapons."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms is The Escapists 3 on?",
+          "answer": "The Escapists 3 is coming to PC via Steam, Nintendo Switch 2, PlayStation 5, and Xbox Series X|S in 2027."
+        },
+        {
+          "question": "Do skills carry between prisons in The Escapists 3?",
+          "answer": "Yes. XP and unlocked skills in The Escapists 3 carry from one prison to the next, which is why a flexible inmate build beats an over-specialized one."
         }
       ]
     },
