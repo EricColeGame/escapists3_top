@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "multiplayer": "Multiplayer",
+    "platforms": "Platforms",
+    "community": "Community",
+    "predecessors": "Predecessors",
+    "questions": "Questions"
   },
   "home": {
     "meta": {
@@ -437,7 +444,34 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "The Escapists 3 Guides & Getting Started",
+    "overviewDescription": "Beginner tips, full walkthroughs, escape routes, and release date news for The Escapists 3, all in one place."
+  },
+  "mechanics": {
+    "overviewTitle": "The Escapists 3 Game Mechanics",
+    "overviewDescription": "Crafting, weapons, character stats, prison routines, and escape methods explained for The Escapists 3."
+  },
+  "multiplayer": {
+    "overviewTitle": "The Escapists 3 Multiplayer & Co-op",
+    "overviewDescription": "Split screen, local co-op, online co-op, and player count details for The Escapists 3."
+  },
+  "platforms": {
+    "overviewTitle": "The Escapists 3 Platforms & Download",
+    "overviewDescription": "Steam, PS5, Xbox, Switch, and Android availability plus download details for The Escapists 3."
+  },
+  "community": {
+    "overviewTitle": "The Escapists 3 Community & Official Links",
+    "overviewDescription": "Reddit, the official website, Team17 updates, and the latest The Escapists 3 news."
+  },
+  "predecessors": {
+    "overviewTitle": "The Escapists 3 vs The Escapists 2",
+    "overviewDescription": "Prisons, multiplayer, and gameplay comparisons between The Escapists 3 and its predecessors."
+  },
+  "questions": {
+    "overviewTitle": "The Escapists 3 FAQ",
+    "overviewDescription": "Answers to the most common questions about The Escapists 3, from release status to pricing."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -466,12 +500,11 @@
     "playGame": "Wishlist on Steam",
     "officialDiscord": "Official Team17 Discord",
     "officialYoutube": "Official Team17 YouTube",
-    "vvBuilder": "Escape Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "multiplayerGuides": "Multiplayer",
+    "platformGuides": "Platforms",
+    "mechanicsGuides": "Game Mechanics"
   }
 }
