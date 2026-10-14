@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "The Escapists 3 Wiki",
+  shortName: "The Escapists 3",
+  logoText: "E3",
+  tagline: "Escape Guides, Crafting, Items & Prison Routes",
+  description: "Explore The Escapists 3 Wiki for prison escape guides, crafting recipes, items, weapons, prison tips, and co-op strategies for Team17's upcoming 3D sandbox game.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://escapists3.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://escapists3.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/3602260/The_Escapists_3/",
+  heroVideoId: "F7djxrVO-Tg", // The Escapists 3 — Official Announcement Trailer (Team17)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@Team17",
+    twitter: "https://x.com/Team17",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
